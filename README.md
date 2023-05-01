@@ -6,7 +6,7 @@ A comprehensive compilation of course materials, projects, and resources tailore
 
 Dive into a diverse range of repositories encompassing programming languages, web development, design patterns, databases, quality assurance, and more.
 
-## 📌 Courses:
+## 📌Courses:
 
 - [C Langauge](https://github.com/aug-projects/cLanguage)
 - [Java](https://github.com/aug-projects/programmingJava)
@@ -20,6 +20,7 @@ Dive into a diverse range of repositories encompassing programming languages, we
 - [Design Compiler- Java](https://github.com/aug-projects/javaCompiler)
 - [Quality Assurance - Tasks](https://github.com/aug-projects/QATasks)
 - [Quality Assurance - Labs](https://github.com/aug-projects/QALabs)
+- [Flutter](https://github.com/aug-projects/flutter)
 
 
 ## 🚀 Contributing
