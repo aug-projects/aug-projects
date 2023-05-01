@@ -12,7 +12,6 @@ Dive into a diverse range of repositories encompassing programming languages, we
 - [Java](https://github.com/aug-projects/programmingJava)
 - [Assembly](https://github.com/aug-projects/assembly)
 - [Web One - HTML And CSS](https://github.com/aug-projects/webOne)
-- [Observer](https://github.com/HaythamaSalama/javaDesignPattern/tree/master/src/Behavioral/Observer)
 - [Database - Orcale](https://github.com/aug-projects/orcaleDatabaseProject)
 - [PHP - Tasks](https://github.com/aug-projects/phpTasks)
 - [PHP - Project](https://github.com/aug-projects/phpProject)
