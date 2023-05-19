@@ -21,6 +21,7 @@ Dive into a diverse range of repositories encompassing programming languages, we
 - [Quality Assurance - Tasks](https://github.com/aug-projects/QATasks)
 - [Quality Assurance - Labs](https://github.com/aug-projects/QALabs)
 - [Flutter](https://github.com/aug-projects/flutter)
+- [Flutter Project](https://github.com/aug-projects/flutterProject)
 
 
 ## 🚀 Contributing
